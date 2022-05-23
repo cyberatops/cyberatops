@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thechrislea
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning R, Java, and PHP
+- 💞️ I’m looking to collaborate on projects making the world a better place
+- 📫 How to reach me: thechrislea.com
